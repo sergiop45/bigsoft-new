@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bigsoft-new/static/css/main.073c9b0a.css",
+    "main.js": "/bigsoft-new/static/js/main.8d2343b9.js",
+    "static/js/787.4838e5e4.chunk.js": "/bigsoft-new/static/js/787.4838e5e4.chunk.js",
+    "index.html": "/bigsoft-new/index.html",
+    "main.073c9b0a.css.map": "/bigsoft-new/static/css/main.073c9b0a.css.map",
+    "main.8d2343b9.js.map": "/bigsoft-new/static/js/main.8d2343b9.js.map",
+    "787.4838e5e4.chunk.js.map": "/bigsoft-new/static/js/787.4838e5e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8d2343b9.js"
+  ]
+}
