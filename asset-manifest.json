@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bigsoft-new/static/css/main.53078a8c.css",
+    "main.css": "/bigsoft-new/static/css/main.9bb8aa48.css",
     "main.js": "/bigsoft-new/static/js/main.2c58cd3d.js",
     "static/js/787.4838e5e4.chunk.js": "/bigsoft-new/static/js/787.4838e5e4.chunk.js",
     "static/media/logogif.gif": "/bigsoft-new/static/media/logogif.3e064d26ff9c634b602d.gif",
     "index.html": "/bigsoft-new/index.html",
-    "main.53078a8c.css.map": "/bigsoft-new/static/css/main.53078a8c.css.map",
+    "main.9bb8aa48.css.map": "/bigsoft-new/static/css/main.9bb8aa48.css.map",
     "main.2c58cd3d.js.map": "/bigsoft-new/static/js/main.2c58cd3d.js.map",
     "787.4838e5e4.chunk.js.map": "/bigsoft-new/static/js/787.4838e5e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53078a8c.css",
+    "static/css/main.9bb8aa48.css",
     "static/js/main.2c58cd3d.js"
   ]
 }
