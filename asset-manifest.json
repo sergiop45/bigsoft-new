@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bigsoft-new/static/css/main.8430b5d4.css",
-    "main.js": "/bigsoft-new/static/js/main.c47af2ed.js",
+    "main.css": "/bigsoft-new/static/css/main.53078a8c.css",
+    "main.js": "/bigsoft-new/static/js/main.2c58cd3d.js",
     "static/js/787.4838e5e4.chunk.js": "/bigsoft-new/static/js/787.4838e5e4.chunk.js",
     "static/media/logogif.gif": "/bigsoft-new/static/media/logogif.3e064d26ff9c634b602d.gif",
     "index.html": "/bigsoft-new/index.html",
-    "main.8430b5d4.css.map": "/bigsoft-new/static/css/main.8430b5d4.css.map",
-    "main.c47af2ed.js.map": "/bigsoft-new/static/js/main.c47af2ed.js.map",
+    "main.53078a8c.css.map": "/bigsoft-new/static/css/main.53078a8c.css.map",
+    "main.2c58cd3d.js.map": "/bigsoft-new/static/js/main.2c58cd3d.js.map",
     "787.4838e5e4.chunk.js.map": "/bigsoft-new/static/js/787.4838e5e4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8430b5d4.css",
-    "static/js/main.c47af2ed.js"
+    "static/css/main.53078a8c.css",
+    "static/js/main.2c58cd3d.js"
   ]
 }
